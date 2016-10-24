@@ -17,8 +17,8 @@ Accepts all (query) parameters described here: https://developer.infojobs.net/do
 ### Offers
 
     /offer
-    /offers?contractType=indefinido
-    /offers?contractType=indefinido&province=Murcia
+    /offer?contractType=indefinido
+    /offer?contractType=indefinido&province=Murcia
 
 ### Details Offers
 
@@ -27,8 +27,8 @@ Accepts all (query) parameters described here: https://developer.infojobs.net/do
 ## Production Examples
 
     https://boiling-plains-16324.herokuapp.com/offer
-    https://boiling-plains-16324.herokuapp.com/offers?contractType=indefinido
-    https://boiling-plains-16324.herokuapp.com/offers?contractType=indefinido&province=Murcia
+    https://boiling-plains-16324.herokuapp.com/offer?contractType=indefinido
+    https://boiling-plains-16324.herokuapp.com/offer?contractType=indefinido&province=Murcia
 
     https://boiling-plains-16324.herokuapp.com/offer/70b97bdafc42e0b118fb417fb84570
 
