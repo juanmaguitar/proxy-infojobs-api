@@ -1,0 +1,21 @@
+{
+  "name": "demo-infojobs-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "devtool index.js --watch",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "cors": "^2.7.1",
+    "express": "latest"
+  },
+  "engines": {
+    "node": "6.6.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
