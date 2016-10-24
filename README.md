@@ -26,9 +26,11 @@ Accepts all (query) parameters described here: https://developer.infojobs.net/do
 
 ## Production Examples
 
-    https://powerful-inlet-75906.herokuapp.com/recipe
-    https://powerful-inlet-75906.herokuapp.com/recipe?q=tomate
-    https://powerful-inlet-75906.herokuapp.com/recipe/7fcd69
+    https://boiling-plains-16324.herokuapp.com/offer
+    https://boiling-plains-16324.herokuapp.com/offers?contractType=indefinido
+    https://boiling-plains-16324.herokuapp.com/offers?contractType=indefinido&province=Murcia
+
+    https://boiling-plains-16324.herokuapp.com/offer/70b97bdafc42e0b118fb417fb84570
 
 ## Installation
 
